@@ -1,6 +1,11 @@
-Bienvenido a mi repositorio personal, donde comparto proyectos y código relacionado con mis intereses en tecnología, desarrollo y ciberseguridad. Aquí encontrarás una colección de proyectos que reflejan mi pasión por la innovación y el aprendizaje continuo.
-Contacto:
-No dudes en contactarme a través de mi Lindedin (https://www.linkedin.com/in/gabriel-ortega-840ba1235/). Estoy ansioso por conectar contigo y discutir ideas.
+# Gaos59
+
+Bienvenido a mi repositorio personal en GitHub. Este repositorio contiene una variedad de proyectos y código relacionado con mis intereses en tecnología, desarrollo y ciberseguridad.
+
+## Contacto
+
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi Linkedin https://www.linkedin.com/in/gabriel-ortega-840ba1235/.
+
 <!--
 **gaos59/gaos59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
