@@ -1,4 +1,4 @@
-# Gaos59
+# GAOS
 
 Bienvenido a mi repositorio personal en GitHub. Este repositorio espero poder compartir contenido relacionado con mis intereses en tecnología, desarrollo y ciberseguridad.
 
